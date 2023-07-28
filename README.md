@@ -8,6 +8,7 @@ In order to achieve your goal you must build a regression model that can predict
 
 ![image](image/EHR-data.jpg)
 
+
 **Expected Hospitalization Time Regression Model**: Utilizing a synthetic dataset(denormalized at the line level augmentation) built off of the UCI Diabetes readmission dataset, students will build a regression model that predicts the expected days of hospitalization time and then convert this to a binary prediction of whether to include or exclude that patient from the clinical trial.
 
 This project will demonstrate the importance of building the right data representation at the encounter level, with appropriate filtering and preprocessing/feature engineering of key medical code sets. This project will also require students to analyze and interpret their model for biases across key demographic groups.
